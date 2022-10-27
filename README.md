@@ -1,2 +1,2 @@
 # Reinforcement-learning-in-finance
-Code of course reinforcement learning in finance (Coursera)
+Code of the course "reinforcement learning in finance" (Coursera)
